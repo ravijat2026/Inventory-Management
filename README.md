@@ -85,7 +85,7 @@ A modern, responsive inventory management application built with Next.js 14, Typ
 
 ## 📁 Project Structure
 
-\`\`\`
+
 inventory-pro/
 ├── app/
 │   ├── dashboard/
@@ -103,7 +103,7 @@ inventory-pro/
 │   └── utils.ts                       # Utility functions
 ├── middleware.ts                      # Next.js middleware
 └── README.md
-\`\`\`
+
 
 ## 🔧 Component Architecture
 
