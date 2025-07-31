@@ -85,25 +85,7 @@ A modern, responsive inventory management application built with Next.js 14, Typ
 
 ## 📁 Project Structure
 
-
-inventory-pro/
-├── app/
-│   ├── dashboard/
-│   │   ├── components/
-│   │   │   ├── dashboard-header.tsx    # Header with stats and user info
-│   │   │   ├── add-item-form.tsx       # Form for adding new items
-│   │   │   └── inventory-table.tsx     # Table with inventory listing
-│   │   └── page.tsx                    # Main dashboard page
-│   ├── globals.css                     # Global styles
-│   ├── layout.tsx                      # Root layout
-│   └── page.tsx                        # Registration/landing page
-├── components/
-│   └── ui/                            # shadcn/ui components
-├── lib/
-│   └── utils.ts                       # Utility functions
-├── middleware.ts                      # Next.js middleware
-└── README.md
-
+<pre lang="markdown"> ``` inventory-pro/ ├── app/ │ ├── dashboard/ │ │ ├── components/ │ │ │ ├── dashboard-header.tsx # Header with stats and user info │ │ │ ├── add-item-form.tsx # Form for adding new items │ │ │ ├── inventory-table.tsx # Table with inventory listing │ │ └── page.tsx # Main dashboard page │ ├── globals.css # Global styles │ ├── layout.tsx # Root layout │ └── page.tsx # Registration/landing page ├── components/ │ └── ui/ # shadcn/ui components ├── lib/ │ └── utils.ts # Utility functions ├── middleware.ts # Next.js middleware └── README.md ``` </pre>
 
 ## 🔧 Component Architecture
 
